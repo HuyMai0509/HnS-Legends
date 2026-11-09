@@ -4,6 +4,8 @@
 
 *by HUY MAI*
 
+### [⬇ Download the patch (Releases)](https://github.com/HuyMai0509/HnS-Legends/releases/latest)
+
 - **Version:** v0.21b (early release, bugs expected)
 - **Base:** Pokémon Heart & Soul 2.x (pokeemerald-expansion)
 - **Patch onto:** Pokémon Emerald (USA, Europe), CRC32 `1F1C08FB`
