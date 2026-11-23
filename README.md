@@ -30,7 +30,7 @@ Pokémon, the randomizer, Nuzlocke and difficulty options. HnS Legends changes h
 
 ### Overworld battles (no battle screen)
 - **All battles happen on the map:** wild Pokémon, trainers, Gym Leaders, the Elite Four, legendaries, roamers,
-  events, fishing, Rock Smash, Headbutt, Sweet Scent, Safari Zone and the Bug-Catching Contest.
+  events, fishing, Rock Smash, Headbutt, Sweet Scent.
 - **Your lead Pokémon steps out** and faces the opponent. You can walk around the fight with the D-pad.
 - **Gym Leaders and legendaries** fight in their own arena.
 - **Animated moves on the map:** 847 moves, each with its own animation or one borrowed from a similar move and
